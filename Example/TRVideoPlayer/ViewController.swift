@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var containerView: UIView!
     
-    let playerView = MBVideoPlayerView(configuration: nil, theme: nil, header: nil)
+    let playerView = TRVideoPlayerView(configuration: nil, theme: nil, header: nil)
 
     lazy var toggleButton: UIButton = {
         let btn = UIButton()
