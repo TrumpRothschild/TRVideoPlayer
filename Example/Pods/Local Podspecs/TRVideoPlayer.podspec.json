@@ -1,0 +1,22 @@
+{
+  "name": "TRVideoPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of TRVideoPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TrumpRothschild/TRVideoPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TrumpRothschild": "jasontrump68@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/TrumpRothschild/TRVideoPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TRVideoPlayer/Classes/**/*"
+}

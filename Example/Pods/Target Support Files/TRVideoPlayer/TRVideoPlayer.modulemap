@@ -1,0 +1,6 @@
+framework module TRVideoPlayer {
+  umbrella header "TRVideoPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
